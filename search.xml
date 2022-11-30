@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>C语言程序题</title>
+      <link href="/2022/11/30/%E7%A8%8B%E5%BA%8F%E9%A2%98/"/>
+      <url>/2022/11/30/%E7%A8%8B%E5%BA%8F%E9%A2%98/</url>
+      
+        <content type="html"><![CDATA[<h3 id="一、计算平年闰年"><a href="#一、计算平年闰年" class="headerlink" title="一、计算平年闰年"></a>一、计算平年闰年</h3><p><img src="https://cdn.staticaly.com/gh/my-photo-repository/images-pages-codeslive@main/2022/202211301053231.webp" alt="计算平年闰年的天数"></p><h3 id="二、while累加（while至少执行0次）"><a href="#二、while累加（while至少执行0次）" class="headerlink" title="二、while累加（while至少执行0次）"></a>二、while累加（while至少执行0次）</h3><p><img src="https://cdn.staticaly.com/gh/my-photo-repository/images-pages-codeslive@main/2022/202211301410959.webp" alt="while累加"></p><h3 id="三、goto"><a href="#三、goto" class="headerlink" title="三、goto"></a>三、goto</h3><p><img src="https://cdn.staticaly.com/gh/my-photo-repository/images-pages-frist@main/2022/202211301543298.webp" alt="goto"></p><h3 id="四、嵌套循环"><a href="#四、嵌套循环" class="headerlink" title="四、嵌套循环"></a>四、嵌套循环</h3><p><img src="https://cdn.staticaly.com/gh/my-photo-repository/images-pages-frist@main/2022/202211301647832.webp" alt="break"></p><p><img src="https://cdn.staticaly.com/gh/my-photo-repository/images-pages-frist@main/2022/202211301723813.webp" alt="continue"></p><h3 id="五、输出"><a href="#五、输出" class="headerlink" title="五、输出"></a>五、输出</h3><ul><li>顺序数</li></ul><p><img src="https://cdn.staticaly.com/gh/my-photo-repository/images-pages-frist@main/2022/202211301941638.webp" alt="顺序数"></p><ul><li>逆序数</li></ul><p><img src="https://cdn.staticaly.com/gh/my-photo-repository/images-pages-frist@main/2022/202211301943872.webp" alt="逆序数"></p><ul><li>回文数</li></ul><p><img src="https://cdn.staticaly.com/gh/my-photo-repository/images-pages-frist@main/2022/202211302002995.webp" alt="回文数"></p><p><img src="https://cdn.staticaly.com/gh/my-photo-repository/images-pages-frist@main/2022/202211302017477.webp"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 程序题 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 程序题 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2022/11/10/hello-world/"/>
       <url>/2022/11/10/hello-world/</url>
